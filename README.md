@@ -1,6 +1,8 @@
 # Maynooth-CS211
 Algorithms and Data Structures II 
 
+This was the main programming module for Maynooth University Computer Science Year 2 Semester 2
+
 <ul>
     <li><a href="https://github.com/FMCDB/Maynooth-CS211/blob/master/Lab1.java">Lab 1</a> - Write a Java program which takes in a line from the user (using Scanner) and then outputs (i) The sentence in ASCII (ii) Each letter in the sentence and its frequency</li><br>
     <li><a href="https://github.com/FMCDB/Maynooth-CS211/blob/master/Lab2.java">Lab 2</a> - Convert a character String into a binary string using Huffman encoding.</li><br>
